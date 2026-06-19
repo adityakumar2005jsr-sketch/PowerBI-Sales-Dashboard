@@ -1,7 +1,4 @@
-## PowerBI-Sales-Dashboard
-
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+# PowerBI Business Intelligence Dashboard
 
 ## Business Problem
 
@@ -12,6 +9,9 @@ This dashboard was developed to analyze sales performance, profitability, custom
 ## Business Objective
 
 The objective of this dashboard is to help decision-makers monitor sales performance, profitability, and regional trends through interactive visualizations and KPI tracking.
+
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
 
 ## Dataset
 
