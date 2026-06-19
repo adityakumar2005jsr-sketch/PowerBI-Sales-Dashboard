@@ -1,4 +1,4 @@
-##PowerBI-Business-Intelligence-Dashboard
+## PowerBI-Sales-Dashboard
 
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
