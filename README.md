@@ -60,8 +60,10 @@ The dashboard helps identify:
 
 Aditya Kumar
 
-B.Tech Information Technology
-KIIT University
+B.Tech Information Technology, KIIT University
 
 Skills:
 Power BI | SQL | Python | Data Analytics | Machine Learning
+
+LinkedIn:
+linkedin.com/in/aditya-kumar-404282375
