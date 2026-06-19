@@ -7,3 +7,11 @@ This dashboard was developed to analyze sales performance, profitability, custom
 
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
+
+## Technologies Used
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Visualization
