@@ -15,3 +15,12 @@ This dashboard was developed to analyze sales performance, profitability, custom
 - DAX
 - Microsoft Excel
 - Data Visualization
+
+- ## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Dashboard Development
+- KPI Analysis
+- Business Intelligence
+- Data Visualization
