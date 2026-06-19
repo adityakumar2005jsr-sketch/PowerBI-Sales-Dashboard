@@ -9,6 +9,23 @@ Organizations generate large volumes of sales data but often struggle to derive 
 
 This dashboard was developed to analyze sales performance, profitability, customer behavior, and regional trends to support data-driven decision-making.
 
+## Business Objective
+
+The objective of this dashboard is to help decision-makers monitor sales performance, profitability, and regional trends through interactive visualizations and KPI tracking.
+
+## Dataset
+
+Source: Superstore Sales Dataset
+
+Records: 50,000+ Orders
+
+Data Includes:
+- Sales
+- Profit
+- Customer Segments
+- Product Categories
+- Geographic Regions
+
 ## Technologies Used
 
 - Power BI
@@ -38,3 +55,13 @@ The dashboard helps identify:
 - Most profitable product categories
 - Regional sales trends
 - Profitability opportunities
+
+- ## Author
+
+Aditya Kumar
+
+B.Tech Information Technology
+KIIT University
+
+Skills:
+Power BI | SQL | Python | Data Analytics | Machine Learning
