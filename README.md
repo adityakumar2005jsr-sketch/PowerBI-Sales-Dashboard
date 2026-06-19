@@ -24,3 +24,16 @@ This dashboard was developed to analyze sales performance, profitability, custom
 - KPI Analysis
 - Business Intelligence
 - Data Visualization
+
+- ## Key Insights
+
+- Total Sales: $13M
+- Total Profit: $1M
+- Total Orders: 51.3K
+- Profit Margin: 11.6%
+
+The dashboard helps identify:
+- High-performing regions
+- Most profitable product categories
+- Regional sales trends
+- Profitability opportunities
